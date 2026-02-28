@@ -2,7 +2,7 @@
 
 // test('get started link works', async ({ page }) => {
 // await page.goto('https://the-internet.herokuapp.com/checkboxes');
-// await page.getByRole('checkbox').first();
+// await page.getByRole('checkbox.').first();
 // await expect(page.getByRole('checkbox').first()).toBeChecked();
 // })
 
